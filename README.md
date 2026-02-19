@@ -7,3 +7,4 @@
 
 ### Connect with me:
 
+[![website](linkedin_logo)](https://www.linkedin.com/in/henrique-cnovais/)
