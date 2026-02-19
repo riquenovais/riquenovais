@@ -11,14 +11,13 @@
   <a href="https://www.linkedin.com/in/henrique-cnovais/" style="text-decoration: none;">
     <img src="linkedin_logo.svg" width="30" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_SCHOLAR" style="text-decoration: none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com.br/citations?user=t4H7OSsAAAAJ&hl=pt-BR&oi=ao" style="text-decoration: none;">
     <img src="Google_Scholar_logo.svg" width="30" alt="Google Scholar">
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_INSTAGRAM" style="text-decoration: none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/henrique_cnovais/" style="text-decoration: none;">
     <img src="Instagram_logo_2016.svg" width="30" alt="Instagram">
   </a>
 </p>
-
 
