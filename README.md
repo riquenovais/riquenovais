@@ -2,6 +2,7 @@
 
 ## My name is Henrique and I'm a PhD student in Mechanical Engineering
 - 🧬 I’m currently learning about `Population-Based Structural Health Monitoring`;
+- 🔬 Research interests: `Structural Health Monitoring`, `Multi-fidelity Modeling`, `Gaussian Processes`, `Surrogate Modeling`;
 - 🥅 2026 Goals: Learn more about `Virtual Sensing` and `Transfer Learning` techniques;
 - ⚡ Fun fact: I play `drums` 🥁.
 
